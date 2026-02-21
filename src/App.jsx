@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <h1>This is heading in react</h1>
-      <p>Hello react</p>
+      <p>This is subheading and its react</p>
     </>
   );
 }
